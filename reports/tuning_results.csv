@@ -1,0 +1,5 @@
+Model,Tuned_CV_ROC_AUC,Best_Params
+Support Vector Machine,0.8858,"{'classifier__C': 1, 'classifier__kernel': 'rbf'}"
+Logistic Regression,0.8819,"{'classifier__C': 0.1, 'classifier__solver': 'liblinear'}"
+Random Forest,0.8786,"{'classifier__max_depth': None, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}"
+XGBoost,0.8719,"{'classifier__learning_rate': 0.05, 'classifier__max_depth': 3, 'classifier__n_estimators': 100}"
